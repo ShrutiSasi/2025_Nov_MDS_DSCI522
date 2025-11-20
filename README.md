@@ -8,3 +8,4 @@ This was created during the DSCI 552 class on Nov 18
     - `git switch -c <name>` create and switch to new branch
 
 - `git branch -d <name>` will delete the branch <name>
+- `git fetch --prune` delete the branch from local
